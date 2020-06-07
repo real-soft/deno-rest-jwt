@@ -1,3 +1,6 @@
+Lista de directorios con sus archivos que forman dicho proyecto:
+
+```bash
 |-- deno-rest-jwt
     |-- controllers
     |   |-- Base.ts
@@ -19,4 +22,6 @@
         |-- index.ts
     |-- app.ts
     |-- denon.json
+
+```
 
