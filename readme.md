@@ -2,9 +2,11 @@
 
 ## Instalación
 
-- install [denon](https://deno.land/x/denon/)
+- Primero instala [denon](https://deno.land/x/denon/)
 
 ## Ejecutar
+
+Luego de instalar `denon`, ejecuta el siguiente comando:
 
 `denon start`
 
